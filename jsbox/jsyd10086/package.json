@@ -1,0 +1,15 @@
+{
+  "name": "jsyd10086",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sign.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^5.2.2",
+    "superagent-proxy": "^2.0.0"
+  }
+}
