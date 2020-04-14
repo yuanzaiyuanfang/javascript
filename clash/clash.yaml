@@ -1,0 +1,5 @@
+- name: "GCP" # 软件显示的节点名字
+  type: trojan
+  server: gcp.bestsroad.com # 服务器域名
+  port: 443
+  password: 0cec5eb3 #Trojan 密码
