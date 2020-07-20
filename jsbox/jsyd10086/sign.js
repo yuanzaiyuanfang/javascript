@@ -81,7 +81,7 @@ const login = function () {
         "dynamicParameter": {
             "method": "lnNew",
             "m": "15051791913",
-            "p": "666888",
+            "p": "",
             "verifyCode": "0",
             "deviceCode": "92cda8553619f95821a4017f6c5284316b2cd416e29db4bfbf2b7c4b1755f07d",
             "openPush": "0",
